@@ -29,7 +29,7 @@ func binarySearch(data []int, find int) {
 	}
 }
 
-func main() {
-	data := []int{0, 1, 3, 4, 6, 8, 12, 14, 15, 17, 19, 22, 25, 37, 38}
-	binarySearch(data, 13)
-}
+// func main() {
+// 	data := []int{0, 1, 3, 4, 6, 8, 12, 14, 15, 17, 19, 22, 25, 37, 38}
+// 	binarySearch(data, 13)
+// }
