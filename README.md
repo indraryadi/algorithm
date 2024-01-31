@@ -4,7 +4,7 @@ simple project that implement basic algorithm:
 
 | Data Structure  | Status |
 | ------------- | :-------------: |
-| recursion | |
+| recursion | &check;|
 | quick sort | &check;|
 | binary search | &check;|
 | bfs | |
