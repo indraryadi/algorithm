@@ -1,7 +1,5 @@
 package main
 
-import "fmt"
-
 func quickSort(data []int) {
 	// base condition
 	if len(data) <= 1 {
@@ -28,11 +26,11 @@ func quickSort(data []int) {
 	copy(data, append(append(lessThanPivot, pivot), greaterThanPivot...))
 }
 
-func main() {
-	data := []int{24, 9, 29, 19, 14, 27}
-	quickSort(data)
-	fmt.Println(data)
-}
+// func main() {
+// 	data := []int{24, 9, 29, 19, 14, 27}
+// 	quickSort(data)
+// 	fmt.Println(data)
+// }
 
 // note
 // this quicksort implementation is use first element of array as a pivot
