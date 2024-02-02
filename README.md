@@ -8,7 +8,7 @@ simple project that implement basic algorithm:
 | quick sort | &check;|
 | binary search | &check;|
 | bfs | |
-| dfs | |
+| dfs | &check;|
 | djikstra algorithm | |
 | dynamic programming | |
 | greedy algorithm | |
