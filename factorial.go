@@ -11,9 +11,10 @@ func factorial(number int) int {
 		return factorial(number-1) * number
 	}
 }
-func main() {
-	fmt.Println(factorial(4))
-}
+
+// func main() {
+// 	fmt.Println(factorial(4))
+// }
 
 // note
 
